@@ -1939,7 +1939,7 @@ fill:goldenrod;
         width: 100%;
         flex-direction: row;
         flex-wrap: wrap;
-        height: 100%;
+        min-height: 100%;
     }
 
     .unit-block {
