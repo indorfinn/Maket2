@@ -1893,6 +1893,14 @@ fill:goldenrod;
         margin: 0;
         width: 90%;
     }
+    .vedeo-name {
+    padding: 0 0 0 40px;
+    }
+    
+    .video-block {
+        margin: 0;
+        width: 90%;
+    }
 
     #video-play {
         object-fit: none;
